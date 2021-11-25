@@ -1,0 +1,1 @@
+using RiskService as service from 'cpapp../../../../Documents/tutorial/cpapp/srv/risk-service';
